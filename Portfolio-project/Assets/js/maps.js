@@ -1,5 +1,4 @@
-    <script>
-        function initMap() {
+      function initMap() {
             var map = new google.maps.Map(document.getElementById("map"), {
                 zoom: 3,
                 center: {
@@ -29,5 +28,4 @@
             var markerCluster = new MarkerClusterer(map, markers, {
                 imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'
             });
-        }
-    </script>
+        };

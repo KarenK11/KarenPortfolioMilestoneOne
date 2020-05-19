@@ -6,7 +6,7 @@
                     lng: -33.134766,
                 }
             });
-        var labes = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
         var locations = [{
             lat: 40.785091,
